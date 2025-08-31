@@ -32,3 +32,7 @@ export default function RootLayout({
     </html>
   );
 }
+export const metadata = {
+  title: "Kontrah Labs — Performance Marketing",
+  description: "Performance marketing for brands that want speed, clarity, and scale. Meta & Google specialists.",
+};

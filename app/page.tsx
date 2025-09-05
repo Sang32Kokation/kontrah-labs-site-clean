@@ -209,8 +209,8 @@ export default function KontrahLabsLanding() {
               <h3 className="text-xl font-semibold">Start a conversation</h3>
               <p className="mt-2 text-neutral-300">Tell us about your brand and goals. We’ll reply within 24 hours.</p>
               <div className="mt-6 grid gap-3 text-sm text-neutral-300">
-                <div className="flex items-center gap-3"><Phone className="h-4 w-4 text-cyan-400" /> +91‑XXXXXXXXXX</div>
-                <div className="flex items-center gap-3"><Mail className="h-4 w-4 text-cyan-400" /> hello@kontrahlabs.com</div>
+                <div className="flex items-center gap-3"><Phone className="h-4 w-4 text-cyan-400" /> +91‑8310593910</div>
+                <div className="flex items-center gap-3"><Mail className="h-4 w-4 text-cyan-400" /> hello@kontrahlabs.in</div>
                 <div className="flex items-center gap-3"><MapPin className="h-4 w-4 text-cyan-400" /> Hubli, Karnataka</div>
               </div>
             </div>
